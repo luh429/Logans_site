@@ -1,8 +1,11 @@
+head {
+background-color: black
+}
 
 body {
-background-color: /*BurlyWood*/ #99ccff;
+background-color: /*BurlyWood*/ #2abe25;
 /* ebb: Looking for colors and color codes? Try the HTML color picker: https://www.w3schools.com/colors/colors_picker.asp */
-color: indigo;
+color: black;
 font-family: arial, helvetica, sans-serif;
 }
 
