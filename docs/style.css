@@ -1,15 +1,19 @@
 
 body {
-background-color: /*BurlyWood*/ #2abe25;
+background-color: /*BurlyWood*/ #877891;
 /* ebb: Looking for colors and color codes? Try the HTML color picker: https://www.w3schools.com/colors/colors_picker.asp */
 color: black;
 font-family: arial, helvetica, sans-serif;
 }
 
+h1.header {font-size: 4vw;}
+
+section.menu {padding:2vw; display:inline; font-size:5vw}
+
+div.button {display:inline; border:2px; border-color: red; font-size: 4vw;}
+
 img.photo1 {width:50%}
 img.photo2 {width:250px}
-
-div.menuA {text-align:center; font-size: 5vw}
 
 /* ebb: This is a comment in CSS: 
  * Notice that the properties I set on the <body> element get passed down to elements inside it. So all my text is the color and font that I set here. 
@@ -18,5 +22,7 @@ div.menuA {text-align:center; font-size: 5vw}
 
 ol {list-style-type: lower-alpha;
 padding: 5em;
-    
+
+
+
 }
