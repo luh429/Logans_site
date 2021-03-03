@@ -52,7 +52,7 @@ section.AdobeProjects {background-color: #7E7E7E; border-style: solid; border-wi
 
 /*More*/
 
-section.More {background-color: #7E7E7E; border-style: solid; border-width: .25vw; border-radius: .5vw;}
+section.More {background-color: #7E7E7E; border-style: solid; border-width: .25vw; border-radius: .5vw; padding: 2vw;}
 
 h1.More {font-size: 3vw}
 
