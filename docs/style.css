@@ -7,8 +7,6 @@ color: black;
 font-family: arial, helvetica, sans-serif;
 }
 
-/*section.toppage {background-color: #7E7E7E; border-style: solid; border-width: .25vw; border-radius: .5vw;}*/
-
 h1.header {font-size: 5vw; margin-bottom: 1.48vw; padding: 2vw; border-style: solid; border-width: .25vw; border-radius: .5vw; background-color: #7E7E7E}
 
 ul {list-style-type: none}
@@ -23,8 +21,23 @@ li.button {display: inline; margin: 0vw; padding: 1.5vw; background-color: #7E7E
 
 p.p1 {font-size: 2vw; padding: 2vw}
 
-img.photo1 {width:10%; opacity: 0.2;}
-img.photo2 {width:250px;}
+/*Home*/
+
+section.Home {background-color: #7E7E7E; border-style: solid; border-width: .25vw; border-radius: .5vw;}
+
+p.intro {padding-left: 5vw; padding-right: 5vw; padding-bottom: 2vw; font-size: 1.5vw}
+
+/*Resume*/
+
+h2 {padding: 1vw}
+
+section.Resume {background-color: #7E7E7E; border-style: solid; border-width: .25vw; border-radius: .5vw;}
+
+section.ResumeSection1 {margin-bottom: 5vw;}
+
+.Resumep1 {padding-left: 2vw; font-size: 1.5vw; margin: 0vw}
+.Resumep2 {padding-left: 2vw; margin: 0vw; margin-bottom: .5vw; margin-top: 1vw}
+.Resumep3 {padding-left: 2vw; font-size: 1vw; margin: 0vw; margin-bottom: 0vw}
 
 /*Gallery*/
 
@@ -37,7 +50,13 @@ img.GalleryPhoto1 {width: 15vw; border-style: solid; border-width: .25vw;}
 
 section.AdobeProjects {background-color: #7E7E7E; border-style: solid; border-width: .25vw; padding: 3vw; border-radius: .5vw; margin: 0vw;}
 
+/*More*/
 
+section.More {background-color: #7E7E7E; border-style: solid; border-width: .25vw; border-radius: .5vw;}
+
+h1.More {font-size: 3vw}
+
+p.More
 
 /* ebb: This is a comment in CSS: 
  * Notice that the properties I set on the <body> element get passed down to elements inside it. So all my text is the color and font that I set here. 
