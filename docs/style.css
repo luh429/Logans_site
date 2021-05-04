@@ -47,6 +47,7 @@ section.TraditionalDrawings {background-color: #7E7E7E; border-style: solid; bor
 
 figure.Gallery {border-style: solid; border-width: .25vw; display: inline-block; padding: 2vw; background-color: #CFCFCF;}
 img.GalleryPhoto1 {width: 15vw; border-style: solid; border-width: .25vw;}
+img.LogsPhoto1 {width: 65vw; border-style: solid; border-width: .25vw;}
 
 section.AdobeProjects {background-color: #7E7E7E; border-style: solid; border-width: .25vw; padding: 3vw; border-radius: .5vw; margin: 0vw;}
 
@@ -59,6 +60,7 @@ h1.More {font-size: 3vw}
 p.More
 
 /*Corpus Analysis*/
+
 
 /* ebb: This is a comment in CSS: 
  * Notice that the properties I set on the <body> element get passed down to elements inside it. So all my text is the color and font that I set here. 
